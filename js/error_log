@@ -1,0 +1,21 @@
+[03-Feb-2014 21:22:35] PHP Fatal error:  Call to undefined function  getallmarkers() in /home/phoenix/public_html/dsa/assignment/js/map.php on line 235
+[03-Feb-2014 21:22:55] PHP Fatal error:  Call to undefined function  getallmarkers() in /home/phoenix/public_html/dsa/assignment/js/map.php on line 235
+[03-Feb-2014 21:23:06] PHP Fatal error:  Call to undefined function  getallmarkers() in /home/phoenix/public_html/dsa/assignment/js/map.php on line 235
+[03-Feb-2014 21:24:54] PHP Warning:  require_once(includes/functions.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/phoenix/public_html/dsa/assignment/js/map.php on line 4
+[03-Feb-2014 21:24:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/functions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/phoenix/public_html/dsa/assignment/js/map.php on line 4
+[03-Feb-2014 21:25:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 322
+[03-Feb-2014 21:25:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 324
+[03-Feb-2014 21:25:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 325
+[03-Feb-2014 21:25:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 327
+[03-Feb-2014 21:26:18] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 322
+[03-Feb-2014 21:26:18] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 324
+[03-Feb-2014 21:26:18] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 325
+[03-Feb-2014 21:26:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 327
+[03-Feb-2014 21:26:23] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 322
+[03-Feb-2014 21:26:23] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 324
+[03-Feb-2014 21:26:23] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 325
+[03-Feb-2014 21:26:23] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 327
+[03-Feb-2014 21:27:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 322
+[03-Feb-2014 21:27:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 324
+[03-Feb-2014 21:27:09] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 325
+[03-Feb-2014 21:27:09] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/phoenix/public_html/dsa/assignment/includes/functions.php on line 327

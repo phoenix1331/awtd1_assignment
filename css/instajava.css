@@ -1,0 +1,17 @@
+#imagewrapper {
+	width:330px;
+}
+
+.image {
+	float:right;
+	margin: 0 0 10px 10px;
+}
+
+.image a{
+	border:none;
+}
+
+.picture {
+	width:55px;
+	height:55px;
+}
